@@ -1,6 +1,8 @@
-Open Engineering Text
+# Open Engineering Text
 
 Engineering knowledge, written as reusable text.
+
+![Open Engineering Text hero-banner.png](../assets/hero-banner.png)
 
 Open Engineering Text is the textual knowledge layer of Open Engineering.
 
